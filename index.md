@@ -1,4 +1,3 @@
-{% include_relative _includes/styles.html %}
 ## Quotations Behind the Brexit
 
 You can use the [editor on GitHub](https://github.com/Lydia-z/ada_data_story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -14,7 +13,7 @@ In our project, we would like to dive into quotations talking about the Brexit a
 ### Speakers talking about the Brexit most frequently
 
 Let's first have a look at who are the speakers talking about the Brexit most frequently.
-![Image](/imgs/speaker.PNG)
+![Image](/_includes/speaker.PNG)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
