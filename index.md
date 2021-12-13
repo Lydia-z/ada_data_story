@@ -10,18 +10,24 @@ Brexit (a portmanteau of "British exit") was the withdrawal of the United Kingdo
 
 In our project, we would like to dive into quotations talking about the Brexit and analyze information behind these quotations to learn about people's attitude through the whole event.
 
-### Speakers talking about the Brexit most frequently
+### Speakers Talking about the Brexit Most Frequently
 
 Let's first have a look at who are the speakers talking about the Brexit most frequently.
 ![Speaker](/imgs/Speaker.PNG)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Nationalities of Speakers Talking about the Brexit Belongs to 
 
-### Jekyll Themes
+It's also very interesting to analyze where do speakers talking about the Brexit come from. This gives us information on people from which country cares about the Brexit. 
+![Nationality](/imgs/Nationality.PNG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lydia-z/ada_data_story/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+After visualizing the top 20 nations talking about the Brexit, it's obvious that most of speakers talking about the Brexit came from dominant countries in the world, for example, the United Kindom, the United States of America, Australia and so on. As this event, Brexit, was mostly about the European situation, we can observe that most countries in the top 20 nations talking about the Brexit were from the Europe, which shows that people care about the Brexit are mostly from the Europe.
 
-### Support or Contact
+### Distribution of the Gender of the Speakers Talking about the Brexit
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Now we are going to analyze the gender of speakers talking about the Brexit
+![Gender](/imgs/Gender.PNG)
+
+### Occupations of Speakers Talking about the Brexit Belongs to 
+
+Let's first have a look at who are the speakers talking about the Brexit most frequently.
+![Occupations](/imgs/Occupations.PNG)
