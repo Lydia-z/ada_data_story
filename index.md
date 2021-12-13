@@ -13,7 +13,7 @@ In our project, we would like to dive into quotations talking about the Brexit a
 ### Speakers talking about the Brexit most frequently
 
 Let's first have a look at who are the speakers talking about the Brexit most frequently.
-![Speaker](/_includes/Speaker.PNG)
+![Speaker](/imgs/Speaker.PNG)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
