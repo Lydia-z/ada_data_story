@@ -5,26 +5,16 @@ You can use the [editor on GitHub](https://github.com/Lydia-z/ada_data_story/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Brexit (a portmanteau of "British exit") was the withdrawal of the United Kingdom (UK) from the European Union (EU) at 23:00 GMT on 31 January 2020 (00:00 CET). The UK is the first and so far the only member state to have left the EU, after 47 years of having been a part of the union — the EU and its predecessor the European Communities (EC), which included the European Economic Community — since 1 January 1973. Actually, the United Kindom was considering about exiting the EU ever since 2016. After several referendums and negotiations between UK-EU, they finally exit the EU in early January, 2020. And the withdrawl aggrement finally came into force on 31 January 2020. 
 
-```markdown
-Syntax highlighted code block
+In our project, we would like to dive into quotations talking about the Brexit and analyze information behind these quotations to learn about people's attitude through the whole event.
 
-# Header 1
-## Header 2
-### Header 3
+### Speakers talking about the Brexit most frequently
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Let's first have a look at who are the speakers talking about the Brexit most frequently.
+![Image](/imgs/speaker.PNG)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
