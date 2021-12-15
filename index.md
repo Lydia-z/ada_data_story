@@ -69,4 +69,4 @@ Now we are going to analyze the gender of speakers talking about the Brexit
 Let's first have a look at who are the speakers talking about the Brexit most frequently.
 ![Occupations](/imgs/Occupations.PNG)
 
-{% include_relative /_includes/pie.html %}
+{% include pie.html %}
